@@ -1,45 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>NINGO&#39;s Blog</title>
+  <icon>https://www.gravatar.com/avatar/5a4cc50afc2d588178fa343da674019c</icon>
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-01T04:22:11.909Z</updated>
+  <updated>2021-11-01T04:17:26.535Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>NINGO</name>
+    <email>949156636@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我的第一篇博客文章</title>
-    <link href="http://example.com/2021/11/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2021/11/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
-    <published>2021-11-01T04:20:11.000Z</published>
-    <updated>2021-11-01T04:22:11.909Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>内容</p><hr><p>##第二章</p><p>内容</p><hr>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;##第二章&lt;/p&gt;
-&lt;p&gt;内容&lt;/p&gt;
-&lt;hr&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
